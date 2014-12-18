@@ -7,13 +7,13 @@
     "type": "git",
     "url": "git://github.com/Islandio/island-lib8a.git"
   },
-  "main": "lib/lib8a",
+  "main": "lib/8a",
   "dependencies": {
     "underscore": "^1.4.4",
     "underscore.string": "~2.3.1",
     "step": "0.0.5",
     "request": "~2.27.0",
-    "cheerio": "^0.18.0",
+    "cheerio": "^0.18.0"
   },
   "engines": {
     "node": "~0.10.26"
