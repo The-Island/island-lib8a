@@ -1,7 +1,7 @@
 {
   "author": "The Island (git://github.com/The-Island)",
   "name": "@islandio/lib8a",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/Islandio/island-lib8a.git"
